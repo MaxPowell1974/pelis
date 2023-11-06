@@ -11,6 +11,7 @@ import json
 #investigar reglas de escritura de python 
 #investigar subirlo a Git
 #agregue esta lìnea desde Github
+#agrego esta linea desde comando
 
 def guardar_contenido_archivo(ubicacion, contenido):
 
